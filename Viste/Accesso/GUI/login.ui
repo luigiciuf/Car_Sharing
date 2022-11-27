@@ -30,7 +30,7 @@
   </property>
   <property name="windowIcon">
    <iconset>
-    <normaloff>../../../../Elegant logo.png</normaloff>../../../../Elegant logo.png</iconset>
+    <normaloff>../../../Elegant logo.png</normaloff>../../../Elegant logo.png</iconset>
   </property>
   <property name="styleSheet">
    <string notr="true">background-color: rgb(255,255,255
@@ -146,7 +146,7 @@
         <enum>Qt::PlainText</enum>
        </property>
        <property name="pixmap">
-        <pixmap>../../../../Elegant logo.png</pixmap>
+        <pixmap>../../../Elegant logo.png</pixmap>
        </property>
        <property name="scaledContents">
         <bool>true</bool>

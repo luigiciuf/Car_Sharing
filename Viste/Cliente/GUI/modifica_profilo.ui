@@ -27,7 +27,7 @@
   </property>
   <property name="windowIcon">
    <iconset>
-    <normaloff>../../../../Elegant logo.png</normaloff>../../../../Elegant logo.png</iconset>
+    <normaloff>../../../Elegant logo.png</normaloff>../../../Elegant logo.png</iconset>
   </property>
   <layout class="QGridLayout" name="gridLayout">
    <item row="2" column="1">
